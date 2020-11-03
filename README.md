@@ -5,7 +5,7 @@ Shareable commitlint config.
 ## Installation
 
 ```bash
-npm install commitlint-config-b2broker
+npm install --save-dev commitlint-config-b2broker
 ```
 
 ### Usage
