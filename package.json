@@ -16,6 +16,8 @@
     "lint": "eslint --ext .ts,.js ./",
     "lint:fix": "npm run lint -- --fix",
     "postinstall": "husky install",
+    "postpublish": "pinst --enable",
+    "prepublishOnly": "pinst --disable",
     "prettier": "prettier -c .",
     "prettier:write": "npm run prettier -- --write",
     "release": "semantic-release"
@@ -45,6 +47,7 @@
     "eslint-config-b2broker-ts": "^1.0.0",
     "husky": "^5.0.9",
     "lint-staged": "^10.5.4",
+    "pinst": "^2.1.6",
     "prettier": "^2.2.1",
     "semantic-release": "^17.4.0"
   }
