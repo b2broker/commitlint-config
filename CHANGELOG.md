@@ -1,5 +1,11 @@
 # Changelog
 
+### [1.0.3](https://github.com/b2broker/commitlint-config/compare/v1.0.2...v1.0.3) (2021-04-20)
+
+### Dependencies
+
+- upgrade `commitlint` to `v12.1.1` ([647bfaf](https://github.com/b2broker/commitlint-config/commit/647bfafefbf9aad2cdd730ab833900e20e8ece49))
+
 ### [1.0.2](https://github.com/b2broker/commitlint-config/compare/v1.0.1...v1.0.2) (2021-02-27)
 
 ### Bug Fixes
