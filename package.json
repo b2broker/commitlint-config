@@ -36,8 +36,8 @@
   },
   "homepage": "https://github.com/b2broker/commitlint-config#readme",
   "dependencies": {
-    "@commitlint/config-conventional": "^12.1.1",
-    "commitlint": "^12.1.1"
+    "@commitlint/config-conventional": "^12.1.4",
+    "commitlint": "^12.1.4"
   },
   "devDependencies": {
     "@b2broker/tsconfig": "^1.0.3",
