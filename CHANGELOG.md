@@ -1,5 +1,11 @@
 # Changelog
 
+### [1.0.5](https://github.com/b2broker/commitlint-config/compare/v1.0.4...v1.0.5) (2021-08-11)
+
+### Dependencies
+
+- move `commitlint` to `peerDependencies` ([3c0642c](https://github.com/b2broker/commitlint-config/commit/3c0642c3896a4ccd6a263def960611bdd41335ff))
+
 ### [1.0.4](https://github.com/b2broker/commitlint-config/compare/v1.0.3...v1.0.4) (2021-05-31)
 
 ### Dependencies
