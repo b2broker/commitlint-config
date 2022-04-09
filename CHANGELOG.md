@@ -1,5 +1,11 @@
 # Changelog
 
+### [1.0.7](https://github.com/b2broker/commitlint-config/compare/v1.0.6...v1.0.7) (2022-04-09)
+
+### Performance Improvements
+
+- drop Node.js `<16.14.2` support ([8bea8c9](https://github.com/b2broker/commitlint-config/commit/8bea8c95c6fad66c0a0f03f70c6f79e75f913124))
+
 ### [1.0.6](https://github.com/b2broker/commitlint-config/compare/v1.0.5...v1.0.6) (2021-11-08)
 
 ### [1.0.5](https://github.com/b2broker/commitlint-config/compare/v1.0.4...v1.0.5) (2021-08-11)
